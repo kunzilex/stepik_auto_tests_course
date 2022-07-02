@@ -1,0 +1,21 @@
+1656451181317	geckodriver	INFO	Listening on 127.0.0.1:60850
+1656451182325	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rp/64rwqjj57pxg4n4ycy0nnvw40000gn/T/rust_mozprofile80Ckt4"
+1656451185258	Marionette	INFO	Marionette enabled
+1656451185280	Marionette	INFO	Listening on port 60866
+Read port: 60866
+1656451185501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/rp/64rwqjj57pxg4n4ycy0nnvw40000gn/T/rust_mozprofile80Ckt4/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1656451198528	Marionette	INFO	Stopped listening on port 60866
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656519897892	geckodriver	INFO	Listening on 127.0.0.1:61874
+1656519898912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rp/64rwqjj57pxg4n4ycy0nnvw40000gn/T/rust_mozprofileYdYU6W"
+1656519899524	Marionette	INFO	Marionette enabled
+1656519899562	Marionette	INFO	Listening on port 61885
+Read port: 61885
+1656519899751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/rp/64rwqjj57pxg4n4ycy0nnvw40000gn/T/rust_mozprofileYdYU6W/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1656519907373	Marionette	INFO	Stopped listening on port 61885
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 143: Error: Shutdown, aborting read-only worker requests.
