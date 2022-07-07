@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module_3_step_6" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/stepik_module_4" vcs="Git" />
   </component>
 </project>
