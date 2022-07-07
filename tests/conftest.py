@@ -4,7 +4,9 @@ from selenium.webdriver.chrome.options import Options as chrome_options
 
 
 def pytest_addoption(parser):
-    parser.addoption('--browser_name', action='store', default=None,
+    parser.addoption('--browser_name',
+                     action='store',
+                     default=None,
                      help="Choose browser: chrome or firefox")
 
 
